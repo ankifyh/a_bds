@@ -1,0 +1,7 @@
+Name=终端全功能键盘
+Style=黑色
+Author=ankifyh改
+SupportPlatform=SWIA
+SkinFlags=1
+SkinType=0
+Abilities=Sound
